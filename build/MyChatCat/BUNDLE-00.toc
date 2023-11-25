@@ -1,0 +1,3 @@
+([('MyChatCat',
+   '/Users/hgo/Downloads/mychatcat/dist/MyChatCat',
+   'EXECUTABLE')],)
